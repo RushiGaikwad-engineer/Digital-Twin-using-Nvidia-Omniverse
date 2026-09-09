@@ -23,26 +23,3 @@ This project builds a physics-accurate Digital Twin environment in NVIDIA Omnive
 * **Dynamic Visual Alarms:** Real-time Python scripts that modify USD PBR material properties (e.g., color changing on conveyor belts) based on incoming PLC data.
 * **Predictive AI Diagnostics:** Offline machine learning models for forecasting jam intensity, operational anomalies, and maintenance schedules.
 * **Modular Architecture:** Structured separation between USD scene scripts, data generation pipelines, and machine learning models.
-
----
-
-## Repository Structure
-
-```text
-Digital-Twin-using-Nvidia-Omniverse/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── ai_diagnostics/
-│   ├── data/
-│   │   └── olive_jam_dataset.csv
-│   ├── models/
-│   │   └── smart_factory_ai.pkl
-│   ├── aiDataGenerator.py
-│   └── aiModelCreator.py
-│
-└── omniverse_scripts/
-    └── visual_alarms/
-        └── alarmBelt.py
