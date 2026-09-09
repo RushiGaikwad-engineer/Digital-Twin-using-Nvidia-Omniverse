@@ -19,7 +19,7 @@ This project builds a physics-accurate Digital Twin environment in NVIDIA Omnive
 
 ## Key Features
 
-* **Real-time 3D Simulation:** USD-based scene management built using NVIDIA Omniverse Composer / Isaac Sim.
-* **Dynamic Visual Alarms:** Real-time Python scripts that modify USD PBR material properties (e.g., color changing on conveyor belts) based on incoming PLC data.
+* **Real-time 3D Simulation:** USD-based scene management built using NVIDIA Omniverse Composer.
+* **Dynamic Visual Alarms:** Real-time Python scripts that modify USD PBR material properties (e.g., colour changing of alarm near conveyor belts) based on incoming PLC data.
 * **Predictive AI Diagnostics:** Offline machine learning models for forecasting jam intensity, operational anomalies, and maintenance schedules.
 * **Modular Architecture:** Structured separation between USD scene scripts, data generation pipelines, and machine learning models.
