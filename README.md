@@ -1,6 +1,5 @@
 # Secure Smart Factory Digital Twin Framework for Industrial OT Edge Deployments
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Siemens](https://img.shields.io/badge/Siemens-TIA%20Portal%20V17%20%7C%20PLCSIM%20Advanced-009999?logo=siemens)](https://www.siemens.com)
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-Omniverse%20PhysX-76B900?logo=nvidia)](https://developer.nvidia.com/omniverse)
 [![OPC UA](https://img.shields.io/badge/OPC--UA-Basic256Sha256-blue)](https://opcfoundation.org/)
